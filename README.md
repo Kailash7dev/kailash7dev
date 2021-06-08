@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**Kailash7dev/kailash7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m Software Engineer with around 3 years expirence in Python and ML, currently looking for full-time opportunities in ML.
 - 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
 - 💬 Ask me about ML
