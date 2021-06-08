@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently looking for full time opportunities in ML
+🔭 I’m Software Engineer with around 3 years exp in Python and ML, currently looking for full-time opportunities in ML.
 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
 💬 Ask me about ML
 📫 How to reach me: <href link= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn, <href link ="https://medium.com/@kailash7dev"> My Blog <href>
 😄 Pronouns: ... He/His
