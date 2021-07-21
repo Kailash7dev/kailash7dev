@@ -29,7 +29,7 @@
 I’m open for mentorship, consulting, and freelance opportunities.<br/>
 Drop me a PM, if you think I can be useful.
 
-[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][kailash7dev@gmail.com]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://code.iconify.design/1/1.0.7/iconify.min.js" />][Hashnode]
 <!-- [<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
