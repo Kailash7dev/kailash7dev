@@ -8,7 +8,7 @@
 - 😄 Pronouns: ... He/His
 <img src = "https://github-readme-stats.vercel.app/api?username=kailash7dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs,issues">
 ---
-🧰 Toolbox
+### 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
@@ -20,7 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/agile-software-34934.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 ---
-### Contacts
+### 📝 Contacts
 
 I’m open for mentorship, consulting, and freelance opportunities.<br/>
 Drop me a PM, if you think I can be useful.
