@@ -17,8 +17,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
-
+<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/tableau-software.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
+<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/kubernets.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
+<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/docker.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
+<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/agile-software.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 ---
 
 
