@@ -20,6 +20,7 @@
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/tableau-software.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/kubernets.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/docker.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/agile-software-34934.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 ---
 
@@ -30,7 +31,7 @@ I’m open for mentorship, consulting, and freelance opportunities.<br/>
 Drop me a PM, if you think I can be useful.
 
 [<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][kailash7dev@gmail.com]
+[<img align="left" alt="gmail.com" width="22px" src="https://github.com/Kailash7dev/kailash7dev/blob/main/gmail-svg.svg" />][kailash7dev@gmail.com]
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://code.iconify.design/1/1.0.7/iconify.min.js" />][Hashnode]
 <!-- [<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
