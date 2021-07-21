@@ -8,4 +8,23 @@
 - 😄 Pronouns: ... He/His
 <img src = "https://github-readme-stats.vercel.app/api?username=kailash7dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs,issues">
 
+### Contacts
+
+I’m open for mentorship, consulting, and freelance opportunities.<br/>
+Drop me a PM, if you think I can be useful.
+
+[<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][kailash7dev@gmail.com]
+[<img align="left" alt="Paqmind | Email" width="22px" src="https://code.iconify.design/1/1.0.7/iconify.min.js" />][Hashnode]
+<!-- [<img align="left" alt="Paqmind | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
+<!-- [<img align="left" alt="Paqmind | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
+[kailash7dev@gmail.com]: mailto:kailash7dev@gmail.com
+[Hashnode]:https://code.iconify.design/1/1.0.7/iconify.min.js
+<!-- [paqmind]: https://paqmind.com
+[youtube]: https://youtube.com/c/ivan-kleshnin -->
+[linkedin]: https://www.linkedin.com/in/Kailash-sukumaran
+<!-- [twitter]: https://twitter.com/ivankleshnin -->
+
 
