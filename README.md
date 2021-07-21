@@ -26,7 +26,7 @@
 
 ### 📝 Contacts
 
-I’m open for mentorship, consulting, and freelance opportunities.<br/>
+I’m open for mentoring, consulting, and freelance opportunities.<br/>
 Drop me a PM, if you think I can be useful.
 
 [<img align="left" alt="Paqmind | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
