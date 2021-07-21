@@ -30,7 +30,7 @@ Drop me a PM, if you think I can be useful.
 [<img align="left" alt="Paqmind | Email" width="22px" src="https://github.com/Kailash7dev/kailash7dev/blob/main/brand-icon.png" />][Hashnode]
 
 [kailash7dev@gmail.com]: mailto:kailash7dev@gmail.com
-[Hashnode]:kailashsukumaran.hashnode.dev
+[Hashnode]:https://kailashsukumaran.hashnode.dev/
 [linkedin]: https://www.linkedin.com/in/Kailash-sukumaran
 
 
