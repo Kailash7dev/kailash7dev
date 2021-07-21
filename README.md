@@ -20,7 +20,7 @@
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/tableau-software.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/kubernets.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 <img src="https://github.com/Kailash7dev/kailash7dev/blob/main/docker.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
-<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/agile-software.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
+<img src="https://github.com/Kailash7dev/kailash7dev/blob/main/agile-software-34934.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt=" " width="50" height="50"/>
 ---
 
 
