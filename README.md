@@ -8,6 +8,16 @@
 - 😄 Pronouns: ... He/His
 <img src = "https://github-readme-stats.vercel.app/api?username=kailash7dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs,issues">
 
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+
 ### Contacts
 
 I’m open for mentorship, consulting, and freelance opportunities.<br/>
