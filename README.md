@@ -2,9 +2,10 @@
 
 - 🔭 I’m Software Engineer with around 3 years expirence in Python and ML, currently looking for full-time opportunities in ML.
 - 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
+- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Coffee 🍵
 - 💬 Ask me about ML
-- 📫 How to reach me: <a href= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn </a>
 - ⚡ <a href ="https://kailashsukumaran.hashnode.dev/"> My Portfolio </a>  | <a href ="https://medium.com/@kailash7dev">My Blog - Medium </a>  
+- 📫 How to reach me: <a href= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn </a>
 - 😄 Pronouns: ... He/His
 
 <details>
