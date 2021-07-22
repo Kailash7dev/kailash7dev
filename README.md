@@ -4,7 +4,7 @@
 - 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
 - 💬 Ask me about ML
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn </a>
-- ⚡ My Blog:  <a href ="https://medium.com/@kailash7dev"> Kailash's Blog - Medium </a> 
+- ⚡ My Blog:  <a href ="https://kailashsukumaran.hashnode.dev/"> My Portfolio </a>  | <a href ="https://medium.com/@kailash7dev">My Blog - Medium </a>  
 - 😄 Pronouns: ... He/His
 
 <details>
