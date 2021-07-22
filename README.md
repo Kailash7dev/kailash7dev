@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Kailash here!
 
 - 🔭 I’m Software Engineer with around 3 years expirence in Python and ML, currently looking for full-time opportunities in ML.
 - 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
@@ -6,8 +6,13 @@
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn </a>
 - ⚡ My Blog:  <a href ="https://medium.com/@kailash7dev"> Kailash's Blog - Medium </a> 
 - 😄 Pronouns: ... He/His
-<img src = "https://github-readme-stats.vercel.app/api?username=kailash7dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs,issues">
 
+<details>
+<summary>📊 Github Stats</summary>
+<p align="center">  <img src = "https://github-readme-stats.vercel.app/api?username=kailash7dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=contribs,prs,issues">
+  
+![Visitor Count](https://profile-counter.glitch.me/{kailash7dev}/count.svg)
+</details>
 ---
 
 ### 🧰 Toolbox
