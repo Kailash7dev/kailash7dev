@@ -1,6 +1,6 @@
 ### Hi there 👋 Kailash here!
 
-- 🔭 I’m Software Engineer with around 3 years expirence in Python and ML, currently looking for full-time opportunities in ML.
+- 🔭 I’m Software Engineer with around 6 years expirence in Python and ML, currently helping FinTech company achieving cloud infra goals
 - 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Coffee 🍵
 - 💬 Ask me about ML
