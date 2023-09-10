@@ -1,9 +1,9 @@
 ### Hi there 👋 Kailash here!
 
 - 🔭 I’m Software Engineer with around 6 years expirence in Python and ML, currently helping FinTech company achieving cloud infra goals
-- 🌱 I’m currently upskilling NLP, Predictive Analysis, AB Testing
+- 🌱 I’m currently upskilling Data Engineering skills
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Coffee 🍵
-- 💬 Ask me about ML
+- 💬 Ask me about DE / ML
 - ⚡ <a href ="https://kailashsukumaran.hashnode.dev/"> My Portfolio </a>  | <a href ="https://medium.com/@kailash7dev">My Blog - Medium </a>  
 - 📫 How to reach me: <a href= "https://www.linkedin.com/in/Kailash-sukumaran"> LinkedIn </a>
 - 😄 Pronouns: ... He/His
