@@ -1,6 +1,6 @@
 ### Hi there 👋 Kailash here!
 
-- 🔭 I’m Software Engineer with around 6 years expirence in Python and ML, currently helping FinTech company achieving cloud infra goals
+- 🔭 I’m Data Engineer with around 6 years expirence in Python, currently helping FinTech company achieving cloud infra goals
 - 🌱 I’m currently upskilling Data Engineering skills
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Coffee 🍵
 - 💬 Ask me about DE / ML
